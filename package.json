@@ -1,6 +1,6 @@
 {
   "name": "@jscad/scad-api",
-  "version": "0.3.0",
+  "version": "0.3.4",
   "description": "OpenSCAD like modeling api for OpenJSCAD & co",
   "repository": "https://github.com/jscad/scad-api",
   "main": "src/index.js",
@@ -36,7 +36,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@jscad/csg": "latest"
+    "@jscad/csg": "0.2.4"
   },
   "devDependencies": {
     "ava": "^0.19.1"
